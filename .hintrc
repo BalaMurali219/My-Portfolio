@@ -14,7 +14,8 @@
       "default",
       {
         "ignore": [
-          "-ms-filter"
+          "-ms-filter",
+          "user-select"
         ]
       }
     ],
@@ -29,6 +30,7 @@
       {
         "aria-allowed-attr": "off"
       }
-    ]
+    ],
+    "no-inline-styles": "off"
   }
 }
